@@ -1,0 +1,39 @@
+.container {
+  height: 500px;
+  width: 400px;
+  background: linear-gradient(rgb(207, 42, 207), rgb(134, 134, 211));
+  color: white;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+}
+.title {
+  margin-top: 15px;
+}
+.container input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-right: 12px;
+  font-size: larger;
+}
+.container button {
+  background: linear-gradient(rgb(162, 155, 155), rgb(63, 63, 63));
+  border: none;
+  color: white;
+}
+.task button {
+  margin-right: 10px;
+}
+.task li {
+  height: 40px;
+  width: 300px;
+  background-color: white;
+  color: black;
+  margin-left: 40px;
+  list-style: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 5px;
+  font-size: larger;
+}
